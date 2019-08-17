@@ -1,5 +1,7 @@
 ---
 title: Basic JavaScript Vocab List
+date: 2019-08-16T13:37:00.000Z
+description: A basic vocab list for those getting started.
 ---
 
 # JavaScript Fundamentals
