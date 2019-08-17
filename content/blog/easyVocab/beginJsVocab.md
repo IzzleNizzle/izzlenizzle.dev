@@ -1,5 +1,5 @@
 ---
-title: My First Post
+title: Basic JavaScript Vocab List
 ---
 
 # JavaScript Fundamentals
