@@ -1,7 +1,7 @@
 ---
 title: Why Readme?
-date: 2019-08-19T13:37:00.000Z
-description: A short time lapse video to show what a web developer may do in his/her daily job.
+date: 2019-12-21T13:37:00.000Z
+description: A good Readme can make a great first impression. Here's a quick starter template Readme
 ---
 # Why a Readme?
 
