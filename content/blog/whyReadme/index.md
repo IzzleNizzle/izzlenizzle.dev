@@ -3,8 +3,6 @@ title: Why Readme?
 date: 2019-12-21T13:37:00.000Z
 description: A good Readme can make a great first impression. Here's a quick starter template Readme
 ---
-# Why a Readme?
-
 Here is a sweet README.md template file I created for a bootcamp I work with.
 
 This is a great starting point to your README. Readme’s are important because people don’t always have time to open and test your projects. This is a quick insight into what you can do and how it looks. It can be used to make a quick strong impression.
