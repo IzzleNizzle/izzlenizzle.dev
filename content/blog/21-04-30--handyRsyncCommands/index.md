@@ -3,7 +3,6 @@ title: Handy rsync Commands
 date: 2021-04-30T13:37:00.000Z
 description: Some handy rsync commands for working with remote vps using ssh.
 ---
-# Handy rsync Commands
 
 I found that my inexpensive VPS (Virtual private server) was too slow for remote coding. So I needed to find another way to update code quickly and easily. I will update code w/ rsync for now.
 
@@ -21,6 +20,10 @@ rsync -zapP --exclude='node_modules/' --exclude='.git'  ~/local-code-folder/ use
 ```bash
 rsync -zapP --exclude='node_modules/' --exclude='.git'  user@<YOUR-VPS-IP-ADDRESS>:/remote-code-folder/ ~/local-code-folder/
 ```
+
+You may want to consider using the `--delete` flag if you want the command to delete files that don't match in both directories. Be cautious with this, as it can delete a lot of files if you format the command wrong. 
+
+There's also a `--dry-run` command that will show you what the command will do before it actually runs, this can help you avoid a lot of heartache. 
 
 #### Explaination
 
