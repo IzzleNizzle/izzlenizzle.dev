@@ -25,7 +25,7 @@ You may want to consider using the `--delete` flag if you want the command to de
 
 There's also a `--dry-run` command that will show you what the command will do before it actually runs, this can help you avoid a lot of heartache. 
 
-#### Explaination
+#### Explanation
 
 Rsync is a sweet tool to synchronize files in two seperate folders.  I'm gonna stay 30,000 feet here; it's great, and can be trusted. You can find nitty gritty details online.
 
