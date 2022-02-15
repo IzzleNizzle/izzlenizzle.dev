@@ -42,5 +42,3 @@ As for the flags, the `-zapP` flags do the following:
 -p,                 preserve permissions
 
 -P,                  displays progress bar
-
-That's all for now.
