@@ -43,4 +43,4 @@ As for the flags, the `-zapP` flags do the following:
 
 -P,                  displays progress bar
 
-That's all for now
+That's all for now.
