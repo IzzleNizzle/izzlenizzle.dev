@@ -1,6 +1,6 @@
 ---
 title: Oracle Cloud Ubuntu Firewall Gotcha 
-date: 2022-03-02T13:37:00.000Z
+date: 2022-03-01T13:37:00.000Z
 description: Opening firewall for Ubuntu instance in Oracle Cloud is not as easy as it seems.
 ---
 # Problem
