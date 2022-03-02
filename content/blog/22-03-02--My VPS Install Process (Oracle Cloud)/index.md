@@ -54,9 +54,13 @@ This takes place of the ufw work below. Oracle cloud doesn't use ufw
 For non Oracle cloud ubuntu instance:
 
 `sudo ufw enable`
+
 `sudo ufw allow 1234/tcp`
+
 `sudo ufw status numbered`
+
 `sudo ufw delete 2`
+
 
 Then restart ssh. I also include some instructions here to install nvm ([Node.js Version Manager](https://github.com/nvm-sh/nvm)) and a [Nginx web server](https://www.nginx.com/)
 
