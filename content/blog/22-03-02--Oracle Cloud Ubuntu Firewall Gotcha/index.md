@@ -33,7 +33,7 @@ Mine looks something like this:
 
 ```
 Stateless   Source      IP Protocol     Source Port     Destination Port
-	No	    0.0.0.0/0	TCP	            All	            1311		
+	No	    0.0.0.0/0	TCP	            All	            80		
 ```
 
 You can do this same thing with Network Security Groups (NSG), but I found security list the quickest and simplest way to get up and running.
