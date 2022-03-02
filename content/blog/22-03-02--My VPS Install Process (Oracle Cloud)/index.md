@@ -26,6 +26,7 @@ Oracle fires up Ubuntu instances with two default users: "ubuntu" and "opc". Nex
 Log back in as the new user:
 
 `sudo userdel -r ubuntu`
+
 `sudo userdel -r opc`
 
 Now we will harden ssh access and change the ssh port. SSH ports are often tested by public, change port to slow down those trying to intrude.
