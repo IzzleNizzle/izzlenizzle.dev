@@ -3,7 +3,6 @@ title: Docker-Compose on Arm64 CPU instance
 date: 2022-04-19T13:37:00.000Z
 description: Installing docker-compose on my arm64 cpu instance required a little extra work, and a beta release.
 ---
-# Docker-Compose on Arm64 cpu instance
 
 Installing docker-compose on my arm64 cpu instance required a little extra work, and a beta release.
 
