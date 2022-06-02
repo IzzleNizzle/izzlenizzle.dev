@@ -1,6 +1,6 @@
 ---
 title: Testing w Python, Pytest, Debugger & Virtual Environment in Visual Studio Code
-date: 2019-08-19T13:37:00.000Z
+date: 2022-06-02T13:37:00.000Z
 description: How I got Python testing with Pytest and a Debugger working in VSC
 ---
 So for awhile now I’ve been struggling to put this all together neatly. I’ve been using one command for testing and another for debugging my code. But today I finally put it all together and boy does it feel amazing!
