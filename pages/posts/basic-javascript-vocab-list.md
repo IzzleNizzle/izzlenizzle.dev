@@ -20,7 +20,7 @@ First things first, as a web developer you MUST become familiar with the develop
 
 Major browsers have Developer Tools built into them and they are critical to our work. To open them, simply right click inside of any webpage, and select "Inspect"
 
-![Dev Tools](/images/inspectPage.png "Dev Tools")
+![Dev Tools](./images/inspectPage.png "Dev Tools")
 
 
 For our course we will be mainly developing in Google Chrome. Firefox is also a very good option but their dev tools vary slightly. So in order to avoid confusion, I recommend using Chrome if you don't already.
@@ -31,14 +31,14 @@ Once you understand the fundamentals it will be easy to switch later.
 
 For the purposes of JavaScript I will only introduce the "Console". Once your dev tools are opened you will see an option for Console. Your colors may look different than mine, that's fine. 
 
-![Dev Tools Console](/images/consoleTab.png "Dev Tools Console")
+![Dev Tools Console](./images/consoleTab.png "Dev Tools Console")
 
 In this console tab you can run any javascript directly in here. It is essentially a window to the Javascript that the browser tab is using currently.
 
 
 #### Console Log
 
-![Console Log](/images/consoleLogHelloWorld.png "Console Log")
+![Console Log](./images/consoleLogHelloWorld.png "Console Log")
 
 Commonly when building with Javascript, we may use a ```console.log()``` method to print something to the console. This will be very helpful in troubleshooting our code. 
 
@@ -51,7 +51,7 @@ In the Chrome Dev Tools, you can select an html element, make it blue, then go b
 
 Click this image to go to the youtube video showing this in detail;
 
-[![Select HTML Elements](/images/htmlConsoleThumbnail.png "Select HTML Elements")](https://youtu.be/rydj8dS6qL4 "Youtube")
+[![Select HTML Elements](./images/htmlConsoleThumbnail.png "Select HTML Elements")](https://youtu.be/rydj8dS6qL4 "Youtube")
 
 
 ### Code Comments:
@@ -223,7 +223,7 @@ When in the dev tools, you can always expand an object to see what is inside (as
 
 A youtube video to demo this:
 
-[![Exploring JS Objects](/images/htmlConsoleThumbnail.png "Exploring JS Objects")](https://youtu.be/kjuLz2qYl-g "Youtube")
+[![Exploring JS Objects](./images/htmlConsoleThumbnail.png "Exploring JS Objects")](https://youtu.be/kjuLz2qYl-g "Youtube")
 
 
 #### Array
@@ -646,6 +646,8 @@ A bit more could be written about duplicating arrays cleanly, popping, shifting,
 Strings
 
 String concatenation, interpolation, length
+
+
 
 
 Resources used to compile this list:
